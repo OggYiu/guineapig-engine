@@ -1,0 +1,44 @@
+{"frames": {
+
+"helicopter-right-1.png":
+{
+	"frame": {"x":28,"y":2,"w":24,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":28},
+	"sourceSize": {"w":24,"h":28}
+},
+"helicopter-right-2.png":
+{
+	"frame": {"x":2,"y":32,"w":24,"h":29},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":29},
+	"sourceSize": {"w":24,"h":29}
+},
+"helicopter-right-3.png":
+{
+	"frame": {"x":2,"y":2,"w":24,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":28},
+	"sourceSize": {"w":24,"h":28}
+},
+"helicopter-right-4.png":
+{
+	"frame": {"x":28,"y":32,"w":24,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":30},
+	"sourceSize": {"w":24,"h":30}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "helicopter.png",
+	"format": "RGBA8888",
+	"size": {"w":64,"h":64},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:edb61d1d4736cbd461331f5b280a6951:dc68f5229cac2a6b0ea508ee9da6dcbd:6a1de2139301ea2f2fbd8a9a891e9ce9$"
+}
+}
